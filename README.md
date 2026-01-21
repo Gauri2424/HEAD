@@ -113,6 +113,7 @@ These elements provide information for how a document should be perceived, and r
   The following 2 meta tags *must* come first in the <head>
   to consistently ensure proper document rendering.
   Any other head element should come *after* these tags.
+This is edited by Gaauri Bankar
 -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
